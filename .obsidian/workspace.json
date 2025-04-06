@@ -13,15 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Почты.md",
+                "file": "Сделать/Хотелки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Почты"
+              "title": "Хотелки"
+            }
+          },
+          {
+            "id": "f12c58cbee23f02a",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Сделать/DawGraph/TODO.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (TODO)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,12 +214,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9390ac5e947feff0",
+  "active": "f12c58cbee23f02a",
   "lastOpenFiles": [
+    "Сделать/DawGraph/TODO.md",
+    "Сделать/DawGraph/DawGraph.md",
+    "Сделать/Хотелки.md",
+    "Изучить/SQL/Common Table Expressions.md",
+    "Почты.md",
     "Общее.md~",
     "4913",
     "Общее.md",
-    "Сделать/Хотелки.md",
     "Сделать/Tv-anime-server/Tv-anime-server.md",
     "Сделать/Tv-anime-server",
     "Сделать/Obsidian.md",
@@ -213,18 +231,14 @@
     "Сделать/Images-web-server",
     "Сделать/DawGraph/uploads/Описание структуры бд.md",
     "Сделать/DawGraph/uploads",
-    "Сделать/DawGraph/TODO.md",
-    "Сделать/DawGraph/DawGraph.md",
     "Сделать/DawGraph",
     "Сделать",
-    "Изучить/SQL/Common Table Expressions.md",
     "Изучить/SQL",
     "Изучить/PHP/Реактивный PHP.md",
     "Изучить/PHP",
     "Изучить",
     "Excalidraw/Drawing 2025-01-12 21.46.05.excalidraw.md",
     "Excalidraw/Drawing 2025-02-05 02.01.52.excalidraw.md",
-    "Почты.md",
     "Игры/Minecraft/Записи.md",
     "Игры/Minecraft/Фейерверки.md",
     "Игры/Minecraft/Скайрим на словах/Сюжет.md",
@@ -247,7 +261,6 @@
     "Игры/Psychopomp/img/Pasted image 20250322231933.png",
     "Игры/Psychopomp/img/Pasted image 20250322222548.png",
     "Игры/Psychopomp/img/Pasted image 20250322221114.png",
-    "Игры/Psychopomp/img",
     "Игры/7 DTEWY/imgs/Pasted image 20250311230837.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
