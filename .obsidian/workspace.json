@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ff81e272eca51616",
+        "id": "6e7818e592dc8822",
         "type": "tabs",
         "children": [
           {
-            "id": "8fc4f40b874a01a3",
+            "id": "9390ac5e947feff0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "diff-view",
+              "state": {
+                "file": "Игры/Psychopomp/Красотуля.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Красотуля)"
             }
           }
         ]
@@ -36,7 +39,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#czx",
+                "query": "tag:#useful",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 200
   },
   "right": {
     "id": "6a050ad225ee95a4",
@@ -123,7 +127,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
@@ -147,8 +153,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -160,13 +166,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "66556eff2be74250",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,48 +193,63 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "markwhen:Create new Markwhen file": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8fc4f40b874a01a3",
+  "active": "9390ac5e947feff0",
   "lastOpenFiles": [
-    "Cheat Sheet/Общее.md",
-    "Cheat Sheet/SSL/Проверка ssl сертификата сайта.md",
-    "Cheat Sheet/SSH/Отправка файла.md",
-    "Cheat Sheet/SSH/Открытие ssh моста.md",
-    "Cheat Sheet/SQL/Экспортировать таблицу.md",
-    "Cheat Sheet/SQL/Создание базы данных.md",
-    "Cheat Sheet/SQL/Импортировать таблицу.md",
-    "Cheat Sheet/Regexp/lookbehind и lookahead.md",
-    "Cheat Sheet/PHP/Формат даты.md",
-    "Cheat Sheet/PHP/Проверка php-синтаксиса линтером.md",
-    "Cheat Sheet/PHP/Отладка оптимизации.md",
-    "Cheat Sheet/PHP/Изменение версии PHP CLI.md",
-    "Cheat Sheet/PHP/Игнорировать Timeout.md",
-    "Cheat Sheet/Node/Webpack/Команда запуска.md",
-    "Cheat Sheet/Linux/Создать symlink.md",
-    "Cheat Sheet/Linux/Распаковка архива.md",
-    "Cheat Sheet/Linux/Поиск содержимого по файлам с исключением лишних типов файлов.md",
-    "Cheat Sheet/Linux/Различия между двумя файлами.md",
-    "Cheat Sheet/Linux/Поиск пустых файлов с записью найденного в файл.md",
-    "Cheat Sheet/Linux/Консольная утилита для просмотра больших файлов логов.md",
-    "Cheat Sheet/Linux/Вывести количество строк в файле.md",
-    "Cheat Sheet/Git/Сохранить логин и пароль (http) гита навсегда.md",
-    "Cheat Sheet/Git/Откат файла гитом к определённой версии.md",
-    "Cheat Sheet/Git/Вывод цветного статуса.md",
-    "Cheat Sheet/Git/Алиас на вывод логов.md",
-    "Cheat Sheet/Docker/Удаление неиспользуемых данных.md",
-    "SCOUT/Пароли",
+    "Excalidraw/Drawing 2025-01-12 21.46.05.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-05 02.01.52.excalidraw.md",
+    "Почты.md",
+    "Общее.md",
+    "Игры/Minecraft/Записи.md",
+    "Игры/Minecraft/Фейерверки.md",
+    "Игры/Minecraft/Скайрим на словах/Сюжет.md",
+    "Игры/7 DTEWY/Воспоминания.md",
+    "Игры/7 DTEWY/Тексты.md",
+    "Игры/7 DTEWY/Без названия.canvas",
+    "Игры/7 DTEWY/Алфавит.md",
+    "Игры/Psychopomp/Красотуля.md",
+    "Игры/Psychopomp/ДНК.md",
+    "Игры/Minecraft/Скайрим на словах/Персонажи/acidtripper7.md",
+    "Игры/Minecraft/Скайрим на словах/Персонажи/Chol.md",
+    "Игры/Minecraft/Скайрим на словах/Персонажи/Evanmeister1914.md",
+    "Игры/Minecraft/Скайрим на словах/Персонажи/GoshaGoofyDura4o.md",
+    "Игры/Minecraft/Скайрим на словах/Персонажи/Jezza010.md",
+    "Игры/Minecraft/Скайрим на словах.md",
+    "Игры/Psychopomp/img/Pasted image 20250322234157.png",
+    "Игры/Psychopomp/img/Pasted image 20250322234123.png",
+    "Игры/Psychopomp/img/Pasted image 20250322233823.png",
+    "Игры/Psychopomp/img/Pasted image 20250322233757.png",
+    "Игры/Psychopomp/img/Pasted image 20250322232007.png",
+    "Игры/Psychopomp/img/Pasted image 20250322231947.png",
+    "Игры/Psychopomp/img/Pasted image 20250322231933.png",
+    "Игры/Psychopomp/img/Pasted image 20250322222548.png",
+    "Игры/Psychopomp/img/Pasted image 20250322221114.png",
+    "Игры/Psychopomp/img",
+    "Игры/Psychopomp",
+    "Игры/R.E.P.O/Даты игр/2025/2025-03-12.md",
+    "Markwhen/Markwhen 3-12-2025 20.39.05.mw",
+    "Игры/R.E.P.O/Без названия.md",
+    "Markwhen/Markwhen 3-12-2025 20.43.58.mw",
+    "Markwhen/Markwhen 3-12-2025 20.42.34.mw",
+    "Markwhen",
+    "Игры/R.E.P.O/Даты игр/2025",
+    "Игры/R.E.P.O/Даты игр",
+    "Игры/R.E.P.O",
+    "Игры/7 DTEWY/imgs/Pasted image 20250311230837.png",
+    "Игры/Minecraft/Litematica/Хоткеи.md",
     "Без названия.canvas",
-    "Excalidraw",
-    "SCOUT/Отпуска/Без названия.canvas",
-    "SCOUT/Отпуска/Даты",
-    "SCOUT/Отпуска",
-    "Cheat Sheet/SQL",
-    "Cheat Sheet/Regexp",
-    "Cheat Sheet/SSL",
-    "Cheat Sheet/Node/Webpack",
-    "Cheat Sheet/Node",
-    "Cheat Sheet/SSH"
+    "Без названия 1.canvas",
+    "Игры/7 DTEWY/imgs",
+    "Игры/TEST TEST TEST/Отчёты.md",
+    "Игры/TEST TEST TEST/60 этаж.md",
+    "Игры/TEST TEST TEST/31 этаж.md",
+    "Игры/TEST TEST TEST/Данные/Расшифровки.md",
+    "Игры/Minecraft/Скайрим на словах/Персонажи/Valgallas.md",
+    "SCOUT/Отпуска/Без названия.canvas"
   ]
 }
