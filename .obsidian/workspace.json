@@ -11,13 +11,14 @@
             "id": "9390ac5e947feff0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Игры/Psychopomp/Красотуля.md",
-                "staged": false
+                "file": "Почты.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Красотуля)"
+              "icon": "lucide-file",
+              "title": "Почты"
             }
           }
         ]
@@ -201,10 +202,29 @@
   },
   "active": "9390ac5e947feff0",
   "lastOpenFiles": [
+    "Общее.md~",
+    "4913",
+    "Общее.md",
+    "Сделать/Хотелки.md",
+    "Сделать/Tv-anime-server/Tv-anime-server.md",
+    "Сделать/Tv-anime-server",
+    "Сделать/Obsidian.md",
+    "Сделать/Images-web-server/Images-web-server.md",
+    "Сделать/Images-web-server",
+    "Сделать/DawGraph/uploads/Описание структуры бд.md",
+    "Сделать/DawGraph/uploads",
+    "Сделать/DawGraph/TODO.md",
+    "Сделать/DawGraph/DawGraph.md",
+    "Сделать/DawGraph",
+    "Сделать",
+    "Изучить/SQL/Common Table Expressions.md",
+    "Изучить/SQL",
+    "Изучить/PHP/Реактивный PHP.md",
+    "Изучить/PHP",
+    "Изучить",
     "Excalidraw/Drawing 2025-01-12 21.46.05.excalidraw.md",
     "Excalidraw/Drawing 2025-02-05 02.01.52.excalidraw.md",
     "Почты.md",
-    "Общее.md",
     "Игры/Minecraft/Записи.md",
     "Игры/Minecraft/Фейерверки.md",
     "Игры/Minecraft/Скайрим на словах/Сюжет.md",
@@ -218,8 +238,6 @@
     "Игры/Minecraft/Скайрим на словах/Персонажи/Chol.md",
     "Игры/Minecraft/Скайрим на словах/Персонажи/Evanmeister1914.md",
     "Игры/Minecraft/Скайрим на словах/Персонажи/GoshaGoofyDura4o.md",
-    "Игры/Minecraft/Скайрим на словах/Персонажи/Jezza010.md",
-    "Игры/Minecraft/Скайрим на словах.md",
     "Игры/Psychopomp/img/Pasted image 20250322234157.png",
     "Игры/Psychopomp/img/Pasted image 20250322234123.png",
     "Игры/Psychopomp/img/Pasted image 20250322233823.png",
@@ -230,26 +248,9 @@
     "Игры/Psychopomp/img/Pasted image 20250322222548.png",
     "Игры/Psychopomp/img/Pasted image 20250322221114.png",
     "Игры/Psychopomp/img",
-    "Игры/Psychopomp",
-    "Игры/R.E.P.O/Даты игр/2025/2025-03-12.md",
-    "Markwhen/Markwhen 3-12-2025 20.39.05.mw",
-    "Игры/R.E.P.O/Без названия.md",
-    "Markwhen/Markwhen 3-12-2025 20.43.58.mw",
-    "Markwhen/Markwhen 3-12-2025 20.42.34.mw",
-    "Markwhen",
-    "Игры/R.E.P.O/Даты игр/2025",
-    "Игры/R.E.P.O/Даты игр",
-    "Игры/R.E.P.O",
     "Игры/7 DTEWY/imgs/Pasted image 20250311230837.png",
-    "Игры/Minecraft/Litematica/Хоткеи.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
-    "Игры/7 DTEWY/imgs",
-    "Игры/TEST TEST TEST/Отчёты.md",
-    "Игры/TEST TEST TEST/60 этаж.md",
-    "Игры/TEST TEST TEST/31 этаж.md",
-    "Игры/TEST TEST TEST/Данные/Расшифровки.md",
-    "Игры/Minecraft/Скайрим на словах/Персонажи/Valgallas.md",
     "SCOUT/Отпуска/Без названия.canvas"
   ]
 }
