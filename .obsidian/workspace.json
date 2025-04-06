@@ -22,16 +22,17 @@
             }
           },
           {
-            "id": "f12c58cbee23f02a",
+            "id": "9bd0260f31784419",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Сделать/DawGraph/TODO.md",
-                "staged": false
+                "file": "Сделать/Tv-anime-server/Tv-anime-server.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (TODO)"
+              "icon": "lucide-file",
+              "title": "Tv-anime-server"
             }
           }
         ],
@@ -214,11 +215,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f12c58cbee23f02a",
+  "active": "9bd0260f31784419",
   "lastOpenFiles": [
+    "Сделать/Хотелки.md",
     "Сделать/DawGraph/TODO.md",
     "Сделать/DawGraph/DawGraph.md",
-    "Сделать/Хотелки.md",
+    "Сделать/Images-web-server/Images-web-server.md",
     "Изучить/SQL/Common Table Expressions.md",
     "Почты.md",
     "Общее.md~",
@@ -227,7 +229,6 @@
     "Сделать/Tv-anime-server/Tv-anime-server.md",
     "Сделать/Tv-anime-server",
     "Сделать/Obsidian.md",
-    "Сделать/Images-web-server/Images-web-server.md",
     "Сделать/Images-web-server",
     "Сделать/DawGraph/uploads/Описание структуры бд.md",
     "Сделать/DawGraph/uploads",
