@@ -8,35 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9390ac5e947feff0",
+            "id": "d1bb4137120243df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сделать/Хотелки.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Хотелки"
-            }
-          },
-          {
-            "id": "9bd0260f31784419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сделать/Tv-anime-server/Tv-anime-server.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tv-anime-server"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,8 +196,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9bd0260f31784419",
+  "active": "d1bb4137120243df",
   "lastOpenFiles": [
+    "Сделать/DawGraph/Схемы/img/images.png",
+    "Сделать/DawGraph/Схемы/img",
+    "Сделать/DawGraph/Схемы/Drawing 2025-04-07 20.04.23.excalidraw.md",
+    "Сделать/DawGraph/Схемы",
+    "conflict-files-obsidian-git.md",
+    "Сделать/Tv-anime-server/Tv-anime-server.md",
     "Сделать/Хотелки.md",
     "Сделать/DawGraph/TODO.md",
     "Сделать/DawGraph/DawGraph.md",
@@ -226,7 +213,6 @@
     "Общее.md~",
     "4913",
     "Общее.md",
-    "Сделать/Tv-anime-server/Tv-anime-server.md",
     "Сделать/Tv-anime-server",
     "Сделать/Obsidian.md",
     "Сделать/Images-web-server",
@@ -236,8 +222,6 @@
     "Сделать",
     "Изучить/SQL",
     "Изучить/PHP/Реактивный PHP.md",
-    "Изучить/PHP",
-    "Изучить",
     "Excalidraw/Drawing 2025-01-12 21.46.05.excalidraw.md",
     "Excalidraw/Drawing 2025-02-05 02.01.52.excalidraw.md",
     "Игры/Minecraft/Записи.md",
@@ -251,8 +235,6 @@
     "Игры/Psychopomp/ДНК.md",
     "Игры/Minecraft/Скайрим на словах/Персонажи/acidtripper7.md",
     "Игры/Minecraft/Скайрим на словах/Персонажи/Chol.md",
-    "Игры/Minecraft/Скайрим на словах/Персонажи/Evanmeister1914.md",
-    "Игры/Minecraft/Скайрим на словах/Персонажи/GoshaGoofyDura4o.md",
     "Игры/Psychopomp/img/Pasted image 20250322234157.png",
     "Игры/Psychopomp/img/Pasted image 20250322234123.png",
     "Игры/Psychopomp/img/Pasted image 20250322233823.png",
@@ -262,7 +244,6 @@
     "Игры/Psychopomp/img/Pasted image 20250322231933.png",
     "Игры/Psychopomp/img/Pasted image 20250322222548.png",
     "Игры/Psychopomp/img/Pasted image 20250322221114.png",
-    "Игры/7 DTEWY/imgs/Pasted image 20250311230837.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "SCOUT/Отпуска/Без названия.canvas"
